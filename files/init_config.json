@@ -1,0 +1,5 @@
+{
+  "health_endpoint": "http://my-api-endpoint.com/api/health",
+  "cool_off_interval": "600000",
+  "alert_email_address": "amit.dash@bnsf.com"
+}
